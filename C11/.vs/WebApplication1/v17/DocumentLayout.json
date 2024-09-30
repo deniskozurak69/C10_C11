@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|d:\\desktop copy\\\u0432\u0435\u0431\\archive\\c10_c11\\c11\\webapplication1\\hubs\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588D4DCB-CFD5-48D1-B8D5-D9B9FFEF2EFC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hubs\\todohub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T06:58:00.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoHub.cs",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Hubs\\ToDoHub.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Hubs\\ToDoHub.cs",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Hubs\\ToDoHub.cs",
+              "RelativeToolTip": "WebApplication1\\Hubs\\ToDoHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:35:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T22:40:09.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:58:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:58:14.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:32:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Desktop copy\\\u0432\u0435\u0431\\archive\\C10_C11\\C11\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:54:44.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

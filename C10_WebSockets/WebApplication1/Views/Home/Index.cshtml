@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo List</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #fff;
+            cursor: move;
+        }
+
+        li.dragging {
+            background-color: #f0f0f0;
+            opacity: 0.5;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        .highlight {
+            animation: highlightAnimation 1s ease-in-out;
+        }
+
+        @@keyframes highlightAnimation {
+            from { background-color: yellow; }
+            to { background-color: transparent; }
+        }
+
+        .draggable {
+            transition: transform 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <h1>ToDo List</h1>
+    <input type="text" id="taskInput" placeholder="Додати нове завдання">
+    <button onclick="addTask()">Додати</button>
+    <ul id="taskList"></ul>
+    <script src="~/js/script.js"></script>
+</body>
+</html>
